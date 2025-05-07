@@ -1,3 +1,11 @@
-# Investorz
-Welcome to Investorz!!!
-        We are here to make your future secure with a good finance mindset. By using Investorz you can start investment from scratch to advanced level.
+# Investorz :- A Stock Market Learning Application
+
+This Is An Application Developed For Cascode On A Client.
+
+#Content 📄 
+1. Introduction 
+2. 
+# Introduction :octocat: 
+
+   
+      
